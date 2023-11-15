@@ -1,4 +1,5 @@
-# Linear Search and Binary search
+# 3b. Linear Search and Binary search
+## Date: 12.09.202
 ## Aim:
 To write a program to perform linear search and binary search using python programming.
 ## Equipment’s required:
